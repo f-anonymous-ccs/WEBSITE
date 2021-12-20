@@ -1,0 +1,27 @@
+#tit{
+    text-align:center;
+    color:rgb(red, green, blue);
+}
+body {
+    height:fit-content;
+    background-image: linear-gradient(180deg, rgb(0, 255, 242), rgb(248, 76, 239));
+}
+#left {
+    text-align: right;
+}
+.img-container-block {
+    text-align: center;
+  }
+  .img-container-inline {
+    text-align: center;
+    display: block;
+  }
+
+.button {
+  font-size: 16px;
+  background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+  font-size: 20px;
+  margin-left: 100px;
+}
