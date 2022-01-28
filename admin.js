@@ -13,6 +13,8 @@ if(uname==="Murtaza"&&pswd==="Murtu")
  location.replace("admin-content.html")
 }else if(uname==="Insiyah"&&pswd==="Insiyo"){
 	location.replace("admin-content.html")
+}else if(uname==="Adnan"&&pswd==="Duffelow"){
+	location.replace("admin-content.html")
 }
 
 }
